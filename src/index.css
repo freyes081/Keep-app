@@ -54,3 +54,8 @@ footer p {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
+.loading {
+  font-size: 1.1em;
+  margin-top: 10px;
+}
